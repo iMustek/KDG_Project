@@ -119,7 +119,6 @@ afzie
 afzit
 agaat
 agami
-agami
 agape
 agave
 ageer
@@ -131,7 +130,6 @@ ahorn
 ajour
 ajuin
 akant
-akela
 akela
 akers
 akker
@@ -151,7 +149,6 @@ aleer
 algen
 alias
 alibi
-alibi
 alken
 allen
 aller
@@ -170,7 +167,6 @@ amber
 amice
 amict
 amigo
-amigo
 amorf
 ampel
 amper
@@ -187,14 +183,12 @@ anker
 annex
 anode
 aorta
-aorta
 apart
 apert
 appel
 april
 apsis
 arden
-arena
 arena
 arend
 argon
@@ -230,7 +224,6 @@ audio
 augur
 avant
 aviso
-aviso
 avond
 azijn
 azuur
@@ -248,7 +241,6 @@ bacon
 baden
 bader
 bagno
-bagno
 bajes
 baken
 baker
@@ -264,7 +256,6 @@ bande
 banen
 bange
 banjo
-banjo
 bankt
 barak
 baren
@@ -278,7 +269,6 @@ barst
 basen
 bases
 basis
-basta
 basta
 baste
 baten
@@ -580,7 +570,6 @@ cedel
 ceder
 celen
 cello
-cello
 cents
 chaos
 check
@@ -594,7 +583,6 @@ claim
 clair
 clans
 clips
-close
 close
 clown
 clubs
@@ -611,16 +599,13 @@ combo
 conge
 conti
 conto
-conto
 copie
 corps
-corso
 corso
 coupe
 court
 crack
 crawl
-credo
 credo
 creme
 crepe
@@ -651,7 +636,6 @@ damde
 dames
 dampt
 dandy
-dandy
 danig
 dankt
 danst
@@ -681,9 +665,6 @@ delen
 deler
 delft
 delgt
-delta
-delta
-delta
 delta
 demon
 dempt
@@ -747,7 +728,7 @@ domig
 domme
 dompt
 domst
- donor
+donor
 doods
 doodt
 dooft
@@ -778,7 +759,6 @@ draag
 draai
 draak
 draal
-drama
 drama
 drang
 drank
@@ -927,7 +907,6 @@ erger
 ergon
 ergst
 erica
-erica
 erken
 erker
 ermee
@@ -954,7 +933,6 @@ evers
 exact
 exces
 extra
-extra
 ezels
 ezelt
 faalt
@@ -971,14 +949,12 @@ falie
 fancy
 farad
 farao
-farao
 farce
 farde
 farms
 fasen
 fases
 fatum
-fauna
 fauna
 fazen
 feeen
@@ -995,8 +971,6 @@ fezel
 fiber
 fiche
 fichu
-fichu
-fidei
 fidei
 fielt
 fiere
@@ -1010,7 +984,6 @@ films
 filmt
 finse
 fiool
-firma
 firma
 fitis
 fitst
@@ -1037,7 +1010,6 @@ floep
 floer
 floot
 flora
-flora
 flouw
 fluim
 fluit
@@ -1046,7 +1018,6 @@ fluor
 fnuik
 focus
 fokte
-folio
 folio
 fonds
 fopte
@@ -1061,7 +1032,6 @@ foxen
 foyer
 fraai
 frame
-franc
 franc
 frank
 frans
@@ -1100,10 +1070,6 @@ gapen
 gaper
 gapte
 garde
-garde
-garde
-garen
-garen
 garen
 garft
 garoe
@@ -1151,7 +1117,6 @@ gejut
 gekat
 gekit
 gekke
-gekko
 gekko
 gekst
 gekte
@@ -1201,7 +1166,6 @@ gespt
 geste
 getal
 getij
-getto
 getto
 geuit
 geurt
@@ -1427,7 +1391,6 @@ heult
 heuse
 heust
 hevea
-hevea
 hevel
 hevig
 hiaat
@@ -1444,8 +1407,6 @@ hints
 hipte
 hitte
 hobby
-hobby
-hocus
 hocus
 hoede
 hoedt
@@ -1453,7 +1414,6 @@ hoeft
 hoeks
 hoekt
 hoera
-hoeri
 hoeri
 hoert
 hoest
@@ -1496,7 +1456,7 @@ hotel
 hotst
 hotte
 houdt
- houwt
+houwt
 hoven
 hozen
 huift
@@ -1519,8 +1479,6 @@ huurt
 huwde
 huwen
 hydra
-hydra
-hyena
 hyena
 hymen
 hymne
@@ -1541,7 +1499,6 @@ ijlde
 ijlen
 ijler
 ijlst
-ijsco
 ijsco
 ijsde
 ijsje
@@ -1635,7 +1592,6 @@ jicht
 jijde
 jijen
 jingo
-jingo
 jodel
 joden
 jodin
@@ -1669,8 +1625,6 @@ juist
 jukos
 jukte
 jumbo
-jumbo
-junta
 junta
 jutte
 kaait
@@ -1728,12 +1682,10 @@ karnt
 karos
 karot
 kassa
-kassa
 kaste
 kater
 katje
 katte
-kauri
 kauri
 kauwt
 kavel
@@ -1928,7 +1880,6 @@ koper
 kopie
 kopij
 kopje
-kopje
 kopra
 kopse
 kopte
@@ -1997,7 +1948,6 @@ kroop
 kroos
 kroot
 krops
-krops
 kropt
 kruid
 kruif
@@ -2008,7 +1958,6 @@ kruip
 kruis
 kruit
 krukt
-kruls
 kruls
 krult
 kubbe
@@ -2093,11 +2042,9 @@ lapse
 lapte
 laren
 largo
-largo
 larie
 larve
 laser
-lasso
 lasso
 laste
 latei
@@ -2136,7 +2083,6 @@ lekte
 lelde
 lelie
 lemen
-lemma
 lemma
 lende
 lenen
@@ -2206,9 +2152,6 @@ loket
 lokte
 lolde
 lolly
-lolly
-lolly
-lolly
 lomer
 lomig
 lompe
@@ -2237,7 +2180,6 @@ loste
 loten
 lotje
 lotto
-lotto
 lotus
 loven
 lover
@@ -2246,7 +2188,7 @@ lozer
 lubde
 lucht
 luide
- luidt
+luidt
 luien
 luier
 luikt
@@ -2293,7 +2235,6 @@ maggi
 magie
 magma
 mahdi
-mahdi
 mails
 mains
 major
@@ -2311,13 +2252,10 @@ malse
 malst
 malve
 manco
-manco
 mande
 manen
 maner
 manga
-manga
-mango
 mango
 manie
 mankt
@@ -2326,16 +2264,10 @@ marde
 maren
 marge
 maria
-maria
-maria
 markt
 marlt
 marot
 maske
-massa
-massa
-massa
-massa
 massa
 match
 maten
@@ -2388,9 +2320,6 @@ meukt
 meute
 mezen
 miauw
-micro
-micro
-micro
 micro
 miers
 miert
@@ -2456,7 +2385,6 @@ motor
 motse
 motst
 motte
-motto
 motto
 muffe
 mufst
@@ -2535,7 +2463,6 @@ neten
 netst
 nette
 netto
-netto
 neukt
 neust
 nevel
@@ -2561,7 +2488,6 @@ nolle
 nomen
 nonen
 nonna
-nonna
 noodt
 nooit
 noopt
@@ -2570,7 +2496,6 @@ noors
 nopen
 nopte
 noren
-noria
 noria
 norse
 norst
@@ -2593,7 +2518,6 @@ odium
 oefen
 oehoe
 oempa
-oempa
 oeros
 oetan
 oever
@@ -2601,7 +2525,6 @@ offer
 ofwel
 ogief
 ojief
-okapi
 okapi
 oksel
 olien
@@ -2612,7 +2535,6 @@ olmen
 omarm
 omber
 omdat
-omega
 omega
 omegt
 omgaf
@@ -2672,7 +2594,6 @@ opeet
 opeis
 opent
 opera
-opera
 opfok
 opgaf
 ophad
@@ -2728,9 +2649,6 @@ opzit
 oraal
 orale
 orang
-orang
-orang
-orang
 orden
 order
 ordes
@@ -2772,7 +2690,6 @@ palen
 palet
 palmt
 pampa
-pampa
 pandt
 panen
 panne
@@ -2784,20 +2701,12 @@ parel
 paren
 paret
 paria
-paria
-parti
 parti
 pasar
 pasen
 pasja
-pasja
 pasje
 passe
-passe
-passe
-passe
-passe
-pasta
 pasta
 paste
 patat
@@ -2820,7 +2729,6 @@ pelen
 peluw
 pende
 pendu
-pendu
 penen
 peper
 peren
@@ -2831,17 +2739,11 @@ peurt
 pezen
 pezig
 piama
-piama
 piano
-piano
-piano
-piano
-piepa
 piepa
 piept
 piert
 piest
-pieta
 pieta
 pijen
 pijne
@@ -2852,11 +2754,6 @@ pikol
 pikte
 pinas
 pince
-pince
-pince
-pince
-pince
-pinda
 pinda
 pinde
 pinkt
@@ -2910,7 +2807,6 @@ poeet
 poefs
 poeha
 poema
-poema
 poene
 poept
 poert
@@ -2923,7 +2819,6 @@ pokte
 polak
 polen
 polis
-polka
 polka
 polls
 polst
@@ -2942,8 +2837,8 @@ popes
 popje
 porde
 porie
+porno
 porti
-porto
 porto
 posen
 poses
@@ -2973,19 +2868,10 @@ prijk
 prijs
 prikt
 prima
-prima
-prima
-prima
 prime
 primo
 prins
-prins
-prins
-prins
-prins
 prior
-prive
-prive
 prive
 proef
 profs
@@ -2997,7 +2883,7 @@ prots
 prove
 proza
 pruik
- pruil
+pruil
 pruim
 pruis
 pruts
@@ -3025,7 +2911,6 @@ puurt
 quasi
 queue
 quota
-quota
 raadt
 raagt
 raait
@@ -3034,7 +2919,6 @@ raamt
 raapt
 raast
 rabat
-rabbi
 rabbi
 racen
 racer
@@ -3045,14 +2929,6 @@ raden
 rader
 radii
 radio
-radio
-radio
-radio
-radio
-radio
-radio
-radio
-radja
 radja
 radje
 radst
@@ -3066,7 +2942,6 @@ rakel
 raken
 raker
 raket
-rally
 rally
 ramde
 ramee
@@ -3128,8 +3003,6 @@ reide
 reien
 reikt
 reilt
-reine
-reine
 reine
 reist
 rekel
@@ -3212,17 +3085,12 @@ roman
 romen
 romer
 ronde
-ronde
-ronde
-rondo
 rondo
 rondt
 ronkt
 rooft
 rooit
 rookt
-rooms
-rooms
 rooms
 roomt
 roost
@@ -3262,7 +3130,6 @@ rukte
 rulle
 rulst
 rumba
-rumba
 runde
 runen
 ruwde
@@ -3278,16 +3145,12 @@ sagen
 sajet
 saldi
 saldo
-saldo
 salet
 salie
 salmi
 salon
 salto
-salto
-salto
 salut
-salvo
 salvo
 samen
 sante
@@ -3297,7 +3160,6 @@ saste
 satan
 sater
 saust
-scala
 scala
 scalp
 scene
@@ -3354,7 +3216,6 @@ silex
 simde
 sinds
 sinjo
-sinjo
 sinus
 sippe
 sipst
@@ -3363,7 +3224,6 @@ sisal
 siste
 sjaal
 sjahs
-sjako
 sjako
 sjapt
 sjees
@@ -3524,7 +3384,6 @@ spaar
 spaat
 spade
 spahi
-spahi
 spalk
 spang
 spant
@@ -3634,10 +3493,8 @@ stoet
 stoft
 stokt
 stola
-stola
 stolp
 stolt
-stoma
 stoma
 stomp
 stond
@@ -3686,9 +3543,7 @@ suite
 sujet
 sulde
 sulky
-sulky
 sumak
-summa
 summa
 super
 suste
@@ -3722,9 +3577,6 @@ tamst
 tandt
 tanen
 tango
-tango
-tango
-tango
 tanig
 tanks
 tankt
@@ -3748,7 +3600,7 @@ teams
 teder
 teelt
 teems
- teemt
+teemt
 teers
 teert
 tegel
@@ -3765,7 +3617,6 @@ temee
 temen
 temer
 temet
-tempo
 tempo
 tenen
 tenor
@@ -3789,17 +3640,13 @@ tezen
 thans
 thees
 thema
-thema
 these
 thora
 thuis
 thuja
-thuja
-thuya
 thuya
 thyrs
 tiaar
-tiara
 tiara
 tiend
 tijen
@@ -3826,7 +3673,6 @@ tobbe
 tobde
 tocht
 toddy
-toddy
 toean
 toeft
 toega
@@ -3838,7 +3684,6 @@ togen
 tolde
 tombe
 tomen
-tommy
 tommy
 tonde
 tonen
@@ -3853,7 +3698,6 @@ toque
 toren
 tornt
 toros
-torso
 torso
 torst
 toste
@@ -3886,7 +3730,6 @@ treft
 treil
 trein
 trekt
-trema
 trema
 trems
 tremt
@@ -3961,7 +3804,6 @@ uiver
 ukken
 ulaan
 ultra
-ultra
 unica
 uniek
 unies
@@ -3979,10 +3821,6 @@ vaats
 vacht
 vacua
 vadem
-vader
-vader
-vader
-vader
 vader
 vagen
 vager
@@ -4022,7 +3860,6 @@ velen
 velum
 vemen
 vendu
-vendu
 venen
 venig
 vents
@@ -4055,7 +3892,6 @@ vieze
 vijlt
 vijst
 vilde
-villa
 villa
 vindt
 vinkt
@@ -4205,10 +4041,6 @@ warmt
 wasem
 waste
 water
-water
-water
-water
-water
 watje
 watts
 wauwe
@@ -4290,8 +4122,6 @@ wilde
 winde
 windt
 winst
-winst
-winst
 wipte
 wisse
 wiste
@@ -4359,7 +4189,6 @@ zatte
 zavel
 zeboe
 zebra
-zebra
 zeden
 zedig
 zeeen
@@ -4411,7 +4240,6 @@ zijgt
 zijig
 zilte
 zingt
-zinko
 zinko
 zinkt
 zitje
